@@ -24,7 +24,7 @@ The API should now be running at `http://localhost:5000/`
 
 1. Open a terminal and navigate to the `TestAngular` directory
 2. Run the command `npm install` to install the dependencies
-3. Run the command `ng serve` to start the Angular application
+3. Run the command  1. `export NODE_OPTIONS=--openssl-legacy-provider` 2.`ng serve` to start the Angular application
 
 The application should now be running at `http://localhost:4200/`
 
